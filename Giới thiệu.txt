@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <body>
+  <p><a href="https://www.facebook.com/bao.anh.96343" target="_blank">FB:Quang Nguyen</a>.</p>
+
+  <tr>Facebook c?a tôi h?y click vào link ? trên</tr>
+  <ul>
+  </ul>
+  <li>H? tên :Nguy?n Xuân Quang</li>
+  <li>Quê quán: V?nh Phúc</li>
+  <li> Là sinh viên ðý?c ði th?c t?p</li>
+  <li>R?t mong ðý?c anh ch? và các b?n trong công ty h?p tác và giúp ð? ð? ð?t k?t qu? th?c t?p t?t!!!</li>
+  </body>
+</html>
